@@ -234,6 +234,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
+Solution Architect. Disaster Recovery Architect. Cyber Recovery Solutions. On premises to cloud migrations
 <!---
 # Metrics
 <p align="center">
